@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Products;Open+Source+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Product+Engineer;Frontend+Developer;Full+Stack+Developer;UI%2FUX+Designer;Building+Scalable+Products;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Institute%20of%20Engineering%20%26%20Management-Kolkata-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI%20%7C%20Full%20Stack%20%7C%20UI%2FUX-Developer-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IOT%20%7C%20Full%20Stack%20%7C%20UI%2FUX-Developer-6D28D9?style=for-the-badge"/>
 
 </p>
 
