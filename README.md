@@ -44,7 +44,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lostdreamer1379-lgtm&style=flat-square&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=lostdreamer1379-lgtm&style=flat-square&color=8B5CF6"/>
 
 <img src="https://img.shields.io/github/followers/lostdreamer1379-lgtm?style=flat-square&color=7C3AED"/>
 
@@ -583,15 +583,15 @@ Designed intuitive digital experiences focused on accessibility, usability, and 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lostdreamer1379-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lostdreamer1379-lgtm&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=FFFFFF&icon_color=A855F7&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostdreamer1379-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostdreamer1379-lgtm&layout=donut&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=FFFFFF"/>
 
 </p>
 
 <p align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=lostdreamer1379-lgtm&theme=tokyonight&hide_border=true&background=00000000"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=lostdreamer1379-lgtm&hide_border=true&background=00000000&ring=8B5CF6&fire=A855F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </p>
 
