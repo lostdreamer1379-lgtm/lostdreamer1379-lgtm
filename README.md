@@ -599,7 +599,7 @@ Designed intuitive digital experiences focused on accessibility, usability, and 
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked yet.
 ```
 
