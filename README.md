@@ -58,19 +58,19 @@
 
 I'm **Aditya Nayak**, an Electronics & Communication Engineering undergraduate with a passion for building scalable software products that solve real-world problems.
 
-My interests lie at the intersection of **Software Engineering**, **Artificial Intelligence**, and **Product Development**. I enjoy transforming ideas into production-ready applications by combining modern full-stack technologies with intuitive user experiences and data-driven engineering.
+My interests lie at the intersection of **Full-Stack Development**, **Iot Development**, and **Product Development**. I enjoy transforming ideas into production-ready applications by combining modern full-stack technologies with intuitive user experiences and data-driven engineering.
 
 My engineering philosophy emphasizes writing maintainable code, designing thoughtful user experiences, and developing systems that remain scalable, secure, and efficient as they evolve.
 
 I continuously explore new technologies while strengthening my understanding of software architecture, backend systems, cloud computing, DevOps, and modern AI workflows. Alongside development, I have a strong inclination toward UI/UX design, enabling me to bridge the gap between engineering excellence and user-centric product design.
 
-Currently, I am focused on expanding my expertise in enterprise-grade software engineering while contributing to impactful projects in AI, sustainability, and open-source development.
+Currently, I am focused on expanding my expertise in enterprise-grade Full-Stack Development while contributing to impactful projects in UI/UX Designing, IOT dvelopment, Full-Stack Development and open-source development.
 
 <br>
 
 ## Open To
 
-- Software Engineering Internships
+- Frontend Development 
 - Full Stack Development
 - AI & Machine Learning Projects
 - Open Source Contributions
@@ -178,7 +178,6 @@ Currently, I am focused on expanding my expertise in enterprise-grade software e
 | 🤖 AI & Machine Learning | TensorFlow • CNN • LSTM • Python • Speech Emotion Recognition |
 | ☁️ Cloud & DevOps | Git • GitHub • Docker • Vercel • Netlify |
 | 📱 Mobile Development | React Native • Cross-Platform UI |
-| 🚀 Software Engineering | Scalable Applications • Clean Architecture • Performance Optimization |
 
 --- 
 
@@ -661,7 +660,8 @@ Exploring:
   - AI Product Engineering
 
 Open To:
-  - Software Engineering Internships
+  - Frontend Development
+  - Iot Development
   - AI/ML Research Opportunities
   - Full Stack Development Roles
   - Product Engineering
