@@ -600,7 +600,7 @@ Designed intuitive digital experiences focused on usability, accessibility, cons
 ```txt
 Total Time: 0 secs
 
-Other   19 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
